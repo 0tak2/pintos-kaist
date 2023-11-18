@@ -1,3 +1,3 @@
-Brand new pintos for Operating Systems and Lab (CS330), KAIST, by Youngjin Kwon.
+# pintos-kaist
 
-The manual is available at https://casys-kaist.github.io/pintos-kaist/.
+[pintos-kaist]](https://github.com/casys-kaist/pintos-kaist)의 실습용 미러
